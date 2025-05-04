@@ -6,4 +6,5 @@
             <class name="ParallelDemo.OnlyTestMethodParallel"></class>
         </classes>
     </test>
+    
 </suite>
