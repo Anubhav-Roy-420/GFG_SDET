@@ -1,0 +1,15 @@
+{
+  "Credentials":
+  {
+    "username": "akhiljda@gmail.com",
+    "password": "Password",
+    "login": "https://demo.evershop.io/account/login"
+
+  },
+  "Credentials2":
+  {
+    "username": "sample@gmail.com",
+    "password": "Password2"
+
+  }
+}
